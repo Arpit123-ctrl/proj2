@@ -1,4 +1,2 @@
-# New Project
-
-This project waas creaated a new one
-creted by Arpit.
+# New one
+Created by Arpit
